@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "hello-nbdev"
+  site-url: "https://p-i-.github.io/hello-nbdev"
+  description: "Taking nbdev out for a spin"
+  repo-branch: main
+  repo-url: "https://github.com/p-i-/hello-nbdev"
