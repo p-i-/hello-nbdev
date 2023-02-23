@@ -21,3 +21,15 @@ Fill me in please! Don’t forget code examples:
 ```
 
     2
+
+``` python
+41+1
+```
+
+    42
+
+``` python
+666
+```
+
+    666

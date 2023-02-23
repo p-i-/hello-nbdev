@@ -5,4 +5,5 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://p-i-.github.io',
                 'git_url': 'https://github.com/p-i-/hello-nbdev',
                 'lib_path': 'hello_nbdev'},
-  'syms': {'hello_nbdev.core': {'hello_nbdev.core.foo': ('core.html#foo', 'hello_nbdev/core.py')}}}
+  'syms': { 'hello_nbdev.hello': { 'hello_nbdev.hello.foo': ('hello.html#foo', 'hello_nbdev/hello.py'),
+                                   'hello_nbdev.hello.say_hello': ('hello.html#say_hello', 'hello_nbdev/hello.py')}}}
